@@ -28,5 +28,3 @@ The number of bike trips by gender for each hour of each day of the week as a he
 ### User Trips By Gender By Weekday<br>
 The number of bike trips by gender for each hour for each day of the week as a heatmap.  Men use the bikes the most during the week..<br>
 ![user_trips_by_gender_by_weekday](user_trips_by_gender_by_weekday.png)<br><br>
-
-## Summary
