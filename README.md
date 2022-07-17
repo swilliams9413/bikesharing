@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Results<br><br>
+## Results
 
 ### Checkout Times For Users<br>
 In this visualization, I graphed the length of time that bikes are checked out for all riders. The visual shows us that most rides last between fifteen to thirty minutes.<br>
@@ -23,9 +23,5 @@ In this visualization, I graphed the number of bike trips by gender for each hou
 ### User Trips By Gender By Weekday<br>
 In this visualization, I graphed the number of bike trips by gender for each hour for each day of the week as a heatmap.  Male Subscribers are showing a high usage rate during the week - a very consistent theme through our analysis using different visualizations.<br>
 ![user_trips_by_gender_by_weekday](user_trips_by_gender_by_weekday.png)<br><br>
-
-
-
-### 
 
 ## Summary
