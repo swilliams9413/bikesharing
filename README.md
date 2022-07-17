@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-To visualize bike trip data for stakeholders via graphs.
+To visualize bike trip data for stakeholders via the following graphs:
 
 ### A. Show the length of time that bikes are checked out for all riders and genders.
 ### B. Show the number of bike trips for all riders and genders for each hour of each day of the week.
