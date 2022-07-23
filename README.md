@@ -1,5 +1,8 @@
 # bikesharing
 
+## Dashboard
+[link to dashboard](https://public.tableau.com/app/profile/saveen5815/viz/Citibike_Challenge_16585870522120/Story1)
+
 ## Overview
 To visualize bike trip data for stakeholders via the following graphs:
 
